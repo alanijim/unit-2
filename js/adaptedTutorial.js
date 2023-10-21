@@ -19,7 +19,7 @@ function createMap(){
 };
 
 //function to retrieve the data and place it on the map
-// ...
+// ..
 
 function getData() {
     // Load the data
