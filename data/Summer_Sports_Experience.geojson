@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Queens",
+        "Monday Attendance": 20,
+        "Tuesday Attendance": 30,
+        "Wednesday Attendance": 26,
+        "Thursday Attendance": 22,
+        "Friday Attendance": 100,
+        "Attendance Sum": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283132,
+          40.7135078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Bronx",
+        "Monday Attendance": 95,
+        "Tuesday Attendance": 120,
+        "Wednesday Attendance": 180,
+        "Thursday Attendance": 400,
+        "Friday Attendance": 0,
+        "Attendance Sum": 1045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8785937,
+          40.8466508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Staten Island",
+        "Monday Attendance": 180,
+        "Tuesday Attendance": 250,
+        "Wednesday Attendance": 440,
+        "Thursday Attendance": 550,
+        "Friday Attendance": 730,
+        "Attendance Sum": 2740
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Manhattan",
+        "Monday Attendance": 708,
+        "Tuesday Attendance": 58,
+        "Wednesday Attendance": 680,
+        "Thursday Attendance": 975,
+        "Friday Attendance": 333,
+        "Attendance Sum": 3974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9598939,
+          40.7896239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "jersey city",
+        "Monday Attendance": 375,
+        "Tuesday Attendance": 280,
+        "Wednesday Attendance": 200,
+        "Thursday Attendance": 0,
+        "Friday Attendance": 370,
+        "Attendance Sum": 2325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.047455,
+          40.7215682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Elmont",
+        "Monday Attendance": 210,
+        "Tuesday Attendance": 320,
+        "Wednesday Attendance": 280,
+        "Thursday Attendance": 200,
+        "Friday Attendance": 310,
+        "Attendance Sum": 1530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7093041,
+          40.7076444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "union city",
+        "Monday Attendance": 225,
+        "Tuesday Attendance": 320,
+        "Wednesday Attendance": 280,
+        "Thursday Attendance": 200,
+        "Friday Attendance": 310,
+        "Attendance Sum": 1545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0215737,
+          37.5872576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Hoboken",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 810,
+        "Wednesday Attendance": 560,
+        "Thursday Attendance": 850,
+        "Friday Attendance": 1250,
+        "Attendance Sum": 4920
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0323752,
+          40.7433066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Harison",
+        "Monday Attendance": 380,
+        "Tuesday Attendance": 0,
+        "Wednesday Attendance": 325,
+        "Thursday Attendance": 520,
+        "Friday Attendance": 950,
+        "Attendance Sum": 3725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7825615,
+          30.7598881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Elizabeth",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 775,
+        "Wednesday Attendance": 495,
+        "Thursday Attendance": 475,
+        "Friday Attendance": 75,
+        "Attendance Sum": 2215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2107006,
+          40.6639916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Union",
+        "Monday Attendance": 175,
+        "Tuesday Attendance": 500,
+        "Wednesday Attendance": 520,
+        "Thursday Attendance": 626,
+        "Friday Attendance": 400,
+        "Attendance Sum": 2796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2504793,
+          37.4616454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Orange",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 25,
+        "Wednesday Attendance": 20,
+        "Thursday Attendance": 23,
+        "Friday Attendance": 26,
+        "Attendance Sum": 121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8704931,
+          33.7500378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Hillside",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 20,
+        "Wednesday Attendance": 22,
+        "Thursday Attendance": 23,
+        "Friday Attendance": 21,
+        "Attendance Sum": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9028398,
+          41.8778084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Edison",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 23,
+        "Wednesday Attendance": 26,
+        "Thursday Attendance": 25,
+        "Friday Attendance": 26,
+        "Attendance Sum": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4113926,
+          40.518157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Brooklyn",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 10,
+        "Wednesday Attendance": 30,
+        "Thursday Attendance": 29,
+        "Friday Attendance": 26,
+        "Attendance Sum": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Bayonne",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 25,
+        "Wednesday Attendance": 27,
+        "Thursday Attendance": 28,
+        "Friday Attendance": 27,
+        "Attendance Sum": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4736657,
+          43.4945144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Borough Location": "Middlesex",
+        "Monday Attendance": 0,
+        "Tuesday Attendance": 13,
+        "Wednesday Attendance": 20,
+        "Thursday Attendance": 23,
+        "Friday Attendance": 22,
+        "Attendance Sum": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.253779139,
+          51.5460558
+        ]
+      }
+    }
+  ]
+}
