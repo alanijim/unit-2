@@ -105,11 +105,11 @@ function createPropSymbols(data, attributes){
 
 //Step 1: Create new sequence controls
 function createSequenceControls(attributes) {
-    // Create range input element (slider)
+    //Create range input element (slider)
     var slider = "<input class='range-slider' type='range'></input>";
     document.querySelector("#panel").insertAdjacentHTML('beforeend', slider);
 
-    // Set slider attributes
+    //Set slider attributes
     var sliderElement = document.querySelector(".range-slider");
     sliderElement.max = attributes.length - 1;
     sliderElement.min = 0;
@@ -121,12 +121,12 @@ function createSequenceControls(attributes) {
     document.querySelector('#reverse').insertAdjacentHTML('beforeend', "<img src='img/reverse.png'>");
     document.querySelector('#forward').insertAdjacentHTML('beforeend', "<img src='img/forward.png'>");
 
-    // Step 5: click listener for buttons
+    //Step 5: click listener for buttons
     document.querySelectorAll('.step').forEach(function(step){
         step.addEventListener("click", function(){
             var index = parseInt(document.querySelector('.range-slider').value); // Convert to number
 
-            // Step 6: increment or decrement depending on button clicked
+            //Step 6: increment or decrement depending on button clicked
             if (step.id == 'forward'){
                 index++;
                 //Step 7: if past the last attribute, wrap around to first attribute
